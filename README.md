@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://vmp.ir/img/VMP.png" width="140">
-
+ 
 # VMP Scripts API WEB
 
 ### Lightweight & Optimized VMP Resources
@@ -52,4 +52,4 @@ The repository includes a dedicated **Server API** for communication between the
 Clone the repository:
 
 ```bash
-git clone https://github.com/NEPENTII/svgvmp-script.git
+git clone https://github.com/benyaminpc1-ctrl/vmp-script
