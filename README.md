@@ -101,7 +101,7 @@ resolves which player that belongs to; the browser never sends a player ID.
 
 ## Endpoints
 
-See `API_DOCUMENTATION.md` for the full endpoint list.
+
 
 
 
