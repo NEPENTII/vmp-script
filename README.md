@@ -50,11 +50,6 @@ The repository includes a dedicated **Server API** for communication between the
 
 ## 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/NEPENTII/vmp-script
-# server-api — Central API Bank
 
 A single, dynamic, framework-agnostic API resource for a FiveM/VMP game
 server: authentication, player identity, sessions, economy/inventory
@@ -101,9 +96,7 @@ resolves which player that belongs to; the browser never sends a player ID.
 
 ## Endpoints
 
-
-
-
+See `API_DOCUMENTATION.md` for the full endpoint list.
 
 
 # server-api — Central API Bank
