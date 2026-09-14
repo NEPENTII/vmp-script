@@ -52,4 +52,4 @@ The repository includes a dedicated **Server API** for communication between the
 Clone the repository:
 
 ```bash
-git clone https://github.com/benyaminpc1-ctrl/vmp-script
+git clone https://github.com/NEPENTII/vmp-script
