@@ -7,7 +7,10 @@
 
 ### Lightweight & Optimized VMP Resources
 
-Developed and maintained by **NEPENTII**
+<p>
+  Developed and maintained by <strong>NEPENTII</strong>
+  <img src="https://flagcdn.com/w40/ir.png" width="24" alt="Iran">
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/VMP-Scripts-5865F2?style=for-the-badge">
